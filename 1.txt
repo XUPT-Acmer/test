@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hahaha231
 12323113
+=======
+hahaha2i
+dfsf31
+>>>>>>> change 1.txt
